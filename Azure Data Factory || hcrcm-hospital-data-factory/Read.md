@@ -1,3 +1,10 @@
+# Azure Data Factory ARM's templates 
+Here i am uploading Azure Data Factory codes that i wan implemented in Project.
+
+1.Pipelines
+2.Datasets
+3.Linked Services
+
 ## These are 4 datsets i was used in Azure Data Factory
 
 ![Screenshot (351)](https://github.com/user-attachments/assets/1f1d0e54-6206-4547-bdcc-5846cd3a6f70)
