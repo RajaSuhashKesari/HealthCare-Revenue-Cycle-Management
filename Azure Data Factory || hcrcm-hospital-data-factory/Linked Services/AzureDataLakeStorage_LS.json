@@ -1,0 +1,19 @@
+{
+    "name": "AzureDataLakeStorage_LS",
+    "type": "Microsoft.DataFactory/factories/linkedservices",
+    "properties": {
+        "annotations": [],
+        "type": "AzureBlobFS",
+        "typeProperties": {
+            "url": "https://hcrcmhospitaldatastorage.dfs.core.windows.net/",
+            "accountKey": {
+                "type": "AzureKeyVaultSecret",
+                "store": {
+                    "referenceName": "AzureKeyVault_LS",
+                    "type": "LinkedServiceReference"
+                },
+                "secretName": "hcrcm-adls-key-kv"
+            }
+        }
+    }
+}
