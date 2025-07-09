@@ -1,3 +1,14 @@
+# Project Title : HealthCare Revenue Cycle Management
+# Project Folder :
+    |  ->  Azure Data Factory || hcrcm-hospital-data-factory
+    |  ->      |  ->  Datasets
+    |  ->      |  ->  Linked Services
+    |  ->      |  ->  Pipelines
+    |  ->  Databricks Notebooks
+    |  ->  Datasets
+# Project Architecture and Data Flow
+![image](https://github.com/user-attachments/assets/e35be4f9-fc6f-4354-8d12-eee352d01fb1)
+
 # Azure Data Factory ARM's templates 
 Here i am uploading Azure Data Factory codes that i wan implemented in Project.
 
