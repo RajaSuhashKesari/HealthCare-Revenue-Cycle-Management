@@ -11,6 +11,9 @@
             |----4. Gold
             |----5. Bronze
     | -> Datasets
+            |----EMR - Electronic Medical Records
+            |----Claims
+            |----CPT Codes
 # Project Architecture and Data Flow
 ![image](https://github.com/user-attachments/assets/e35be4f9-fc6f-4354-8d12-eee352d01fb1)
 
