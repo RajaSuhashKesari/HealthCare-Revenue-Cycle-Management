@@ -5,6 +5,11 @@
             |----Linked Services    
             |----Pipelines
     | -> Databricks Notebooks
+            |----1. Set up
+            |----2. API extracts
+            |----3. Silver
+            |----4. Gold
+            |----5. Bronze
     | -> Datasets
 # Project Architecture and Data Flow
 ![image](https://github.com/user-attachments/assets/e35be4f9-fc6f-4354-8d12-eee352d01fb1)
