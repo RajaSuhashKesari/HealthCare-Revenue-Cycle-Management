@@ -1,5 +1,5 @@
 # Project Title : HealthCare Revenue Cycle Management
-# Project Folder :
+# Project Folders :
     | -> Azure Data Factory || hcrcm-hospital-data-factory
             |----Datasets
             |----Linked Services    
