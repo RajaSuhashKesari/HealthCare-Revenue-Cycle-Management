@@ -1,9 +1,9 @@
 # Project Title : HealthCare Revenue Cycle Management
 # Project Folder :
     |  ->  Azure Data Factory || hcrcm-hospital-data-factory
-            |  ->  Datasets
-            |  ->  Linked Services
-            |  ->  Pipelines
+    |--------Datasets
+    |--------Linked Services    
+    |--------Pipelines
     |  ->  Databricks Notebooks
     |  ->  Datasets
 # Project Architecture and Data Flow
